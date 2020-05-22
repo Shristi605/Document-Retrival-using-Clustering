@@ -1,4 +1,4 @@
-# Document-Retrival-using-Clustering
+# Document Retrival using Clustering
 The project is implemented using k-nearest neighbors clustering algorithm. Here I have built three knn models   
 One based on 'TF-IDF' features and 'Euclidean Distance'  
 One based on 'TF-IDF' features and 'Cosine Distance'  
